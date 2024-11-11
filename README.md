@@ -10,6 +10,10 @@ export DOCKER_DEFAULT_PLATFORM=linux/amd64
 ```bash
 docker build . -t zambotto-spark-3.4.0:v0.0.1
 ```
+- Após isso, é necessário adicionar o arquivo access_log.txt dentro da pasta scripts/work/data. Este arquivo é o log de acesso que será analisado. 
+
+*OBS: tentei fazer o download dos arquivos que estão no Markdown via CURL e WGET, porém não consegui realizar a junção e extração dos arquivos .7z que estavam separados. Então, utilizei o arquivo access_log.txt que foi enviado no e-mail.*
+
 
 ## Instruções de execução
 - Após a criação da imagem, execute o comando abaixo para subir o container:
