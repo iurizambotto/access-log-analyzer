@@ -20,6 +20,7 @@ docker build . -t zambotto-spark-3.4.0:v0.0.1
 ```bash
 docker-compose up
 ```
+- As respostas das análises serão exibidas no console e também serão salvas no arquivo `output.txt` que estará dentro da pasta `scripts/work/output` (parâmetro que foi configurado no `docker-compose.yaml`).
 
 ## Arquitetura
 - Para estas análises, foi utilizado uma imagem Docker com o Spark 3.4.0 e Python 3.8.
