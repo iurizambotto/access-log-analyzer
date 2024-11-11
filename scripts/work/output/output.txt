@@ -1,0 +1,60 @@
+Questão 1) Identifique as 10 maiores origens de acesso (Client IP) por quantidade de acessos.
+R: Os principais IPs de origem são: ['10.216.113.172', '10.220.112.1', '10.173.141.213', '10.240.144.183', '10.41.69.177', '10.169.128.121', '10.211.47.159', '10.96.173.111', '10.203.77.198', '10.31.77.18']
+
+Questão 2) Liste os 6 endpoints mais acessados, desconsiderando aqueles que representam arquivos
+R: Os principais endpoints são: ['/', '/release-schedule/', '/search/', '/release-schedule', '/release-schedule/?p=1&r=&l=&o=&rpp=10', '/news/']
+
+Questão 3) Qual a quantidade de Client IPs distintos
+R: 333923 Client IPs distintos
+
+Questão 4) Quantos dias de dados estão representados no arquivo?
+R: 793 dias
+
+Questão 5) Com base no tamanho (em bytes) do conteúdo das respostas, faça a seguinte análise
+R: 
+
+Questão 5a) O volume total de dados retornado.
+R: 805193340248 Bytes ou 767892.21 Megabytes ou 749.89 Gigabytes ou 0.73 Terabytes
+
+Questão 5b) O maior volume de dados em uma única resposta.
+R: 80215074 Bytes ou 76.5 Megabytes
+
+Questão 5c) O menor volume de dados em uma única resposta.
+R: 1 Bytes ou 0.0 Megabytes
+
+Questão 5d) O volume médio de dados retornado
+R: 201076.29656152302 Bytes ou 0.19 Megabytes
+
+Questão 6) Qual o dia da semana com o maior número de erros do tipo 'HTTP Client Error'?
+R: Friday é o dia da semana com o maior número de erros do tipo 'HTTP Client Error'
+
+Questão 1) Identifique as 10 maiores origens de acesso (Client IP) por quantidade de acessos.
+R: Os principais IPs de origem são: ['10.216.113.172', '10.220.112.1', '10.173.141.213', '10.240.144.183', '10.41.69.177', '10.169.128.121', '10.211.47.159', '10.96.173.111', '10.203.77.198', '10.31.77.18']
+
+Questão 2) Liste os 6 endpoints mais acessados, desconsiderando aqueles que representam arquivos
+R: Os principais endpoints são: ['/', '/release-schedule/', '/search/', '/release-schedule', '/release-schedule/?p=1&r=&l=&o=&rpp=10', '/news/']
+
+Questão 3) Qual a quantidade de Client IPs distintos
+R: 333923 Client IPs distintos
+
+Questão 4) Quantos dias de dados estão representados no arquivo?
+R: 793 dias
+
+Questão 5) Com base no tamanho (em bytes) do conteúdo das respostas, faça a seguinte análise
+R: 
+
+Questão 5a) O volume total de dados retornado.
+R: 805193340248 Bytes ou 767892.21 Megabytes ou 749.89 Gigabytes ou 0.73 Terabytes
+
+Questão 5b) O maior volume de dados em uma única resposta.
+R: 80215074 Bytes ou 76.5 Megabytes
+
+Questão 5c) O menor volume de dados em uma única resposta.
+R: 1 Bytes ou 0.0 Megabytes
+
+Questão 5d) O volume médio de dados retornado
+R: 201076.29656152302 Bytes ou 0.19 Megabytes
+
+Questão 6) Qual o dia da semana com o maior número de erros do tipo 'HTTP Client Error'?
+R: Friday é o dia da semana com o maior número de erros do tipo 'HTTP Client Error'
+
